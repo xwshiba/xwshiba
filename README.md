@@ -4,7 +4,7 @@
 - ✏️ [My personal blog](https://shiba.meowshiba.com/) (in Madarin)
 - 🌄 [Travel blog with my partner](https://meowshiba.com/) (in Madarin)
 
-## My Projects - feel free to try them!
+### My Projects - feel free to try them!
 - 📘 [Kindle Scraper for Mandarin System](https://github.com/xwshiba/kindle_scraper_zh)
   --> A life-saving Python tool to organize Kindle's notorious `My Clippings.txt`. 
   --> Only supports Mandarin System for now. English version coming soon.
