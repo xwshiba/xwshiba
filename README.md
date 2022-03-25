@@ -11,6 +11,8 @@
   
 - 💬 [Twitter Sentiment Analysis Framework](https://github.com/xwshiba/twitter-sentiment-analysis)
   --> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics.
+  
+[![some alt text](https://www.randos.online/u/xwshiba)](https://randos.online/u/xwshiba/next)
 
 <!--
 **xwshiba/xwshiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
