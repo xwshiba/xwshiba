@@ -1,7 +1,6 @@
 ### Who am I? 🐈🐕?🐕🐈?
 - 🐕 My favorite pet: Shiba-inu, a cat-like dog breed.
 - ☯️ I love writing clear and efficient code.
-- ✏️ [My personal blog](https://shiba.meowshiba.com/) (in Mandarin)
 - 🌄 [Travel blog with my partner](https://meowshiba.com/) (in Mandarin)
 
 ---
