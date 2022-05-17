@@ -11,11 +11,7 @@
   --> Only supports Mandarin System for now. English version coming soon.
   
 - 💬 [Twitter Sentiment Analysis Framework](https://github.com/xwshiba/twitter-sentiment-analysis)<br>
-  --> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics you choose.
-  
----
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwshiba&layout=compact)](https://github.com/xwshiba/github-readme-stats)         
+  --> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics you choose.     
   
   ---
   
