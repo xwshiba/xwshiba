@@ -12,7 +12,11 @@
   --> Only supports Mandarin System for now. English version coming soon.
   
 - 💬 [Twitter Sentiment Analysis Framework](https://github.com/xwshiba/twitter-sentiment-analysis)<br>
-  --> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics you choose.     
+  --> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics you choose.   
+  
+- 🤖 [WeTalk.ai](https://github.com/xwshiba/fun-with-ai)<br>
+  --> A responsive web app that facilitates user interaction with AI models from OpenAI. Users can interact the AI chat bot to ask for translation, recipes, stories, and more.
+  --> Try play with it [here](https://fun-ai-response.herokuapp.com/)
   
   ---
   
