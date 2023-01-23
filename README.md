@@ -10,14 +10,15 @@
 - 📘 [Kindle Scraper for Mandarin System](https://github.com/xwshiba/kindle_scraper_zh)<br>
   --> A life-saving Python tool to organize Kindle's notorious `My Clippings.txt`.<br>
   --> Only supports Mandarin System for now. English version coming soon.
-  
-- 💬 [Twitter Sentiment Analysis Framework](https://github.com/xwshiba/twitter-sentiment-analysis)<br>
-  --> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics you choose.   
-  
+    
 - 🤖 [WeTalk.ai](https://github.com/xwshiba/fun-with-ai)<br>
   --> Hawkhacks Hackathon Project.<br>
   --> A responsive web app that facilitates user interaction with AI models from OpenAI. Users can interact the AI chat bot to ask for translation, recipes, stories, and more.<br>
-  --> Try play with it [here](https://fun-ai-response.herokuapp.com/)
+  --> See demo [here](https://www.youtube.com/watch?v=pA8pMxT0tJs&t=1s)
+  
+- 💬 [Twitter Sentiment Analysis Framework](https://github.com/xwshiba/twitter-sentiment-analysis)<br>
+--> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics you choose.   
+
   
   ---
   
