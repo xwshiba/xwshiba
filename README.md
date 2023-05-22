@@ -12,7 +12,7 @@
   --> Only supports Mandarin System for now. English version coming soon.
   
 - 💬 [SimpleChatRoom](https://github.com/xwshiba/SimpleChatRoom)<br>
---> This app is a single page application that involves multiple logged in users. Users can send messages, view logged in users, and receive messages without refreshing the page. This project intentionally avoids any web framework to show understanding for web fundamentals.
+--> This app is a single page application that involves multiple logged in users. Users can send messages, view logged in users, and receive messages without refreshing the page. This project shows the understanding for web fundamentals.
     
 - 🤖 [WeTalk.ai](https://github.com/xwshiba/fun-with-ai)<br>
   --> Hawkhacks Hackathon Project.<br>
