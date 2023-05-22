@@ -10,15 +10,14 @@
 - 📘 [Kindle Scraper for Mandarin System](https://github.com/xwshiba/kindle_scraper_zh)<br>
   --> A life-saving Python tool to organize Kindle's notorious `My Clippings.txt`.<br>
   --> Only supports Mandarin System for now. English version coming soon.
+  
+- 💬 [SimpleChatRoom](https://github.com/xwshiba/SimpleChatRoom)<br>
+--> This app is a single page application that involves multiple logged in users. Users can send messages, view logged in users, and receive messages without refreshing the page. This project intentionally avoids any web framework to show understanding for web fundamentals.
     
 - 🤖 [WeTalk.ai](https://github.com/xwshiba/fun-with-ai)<br>
   --> Hawkhacks Hackathon Project.<br>
   --> A responsive web app that facilitates user interaction with AI models from OpenAI. Users can interact the AI chat bot to ask for translation, recipes, stories, and more.<br>
   --> See demo [here](https://www.youtube.com/watch?v=pA8pMxT0tJs&t=1s)
-  
-- 💬 [Twitter Sentiment Analysis Framework](https://github.com/xwshiba/twitter-sentiment-analysis)<br>
---> A data analysis framework that can parse massive Twitter data, sort popularity, calculate sentiment scores, and generate data visualization graphics based on different research topics you choose.   
---> Sadly Twitter APIs may not work anymore. :(
 
   
   ---
