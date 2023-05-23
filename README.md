@@ -11,7 +11,7 @@
   --> A life-saving Python tool to organize Kindle's notorious `My Clippings.txt`.<br>
   --> Only supports Mandarin System for now. English version coming soon.
   
-- 💬 [SimpleChatRoom](https://github.com/xwshiba/SimpleChatRoom)<br>
+- 💬 [IntegratedChatRoom](https://github.com/xwshiba/IntegratedChatRoom)<br>
 --> This app is a single page application that involves multiple logged in users. Users can send messages, view logged in users, and receive messages without refreshing the page. This project shows the understanding for web fundamentals.
     
 - 🤖 [WeTalk.ai](https://github.com/xwshiba/fun-with-ai)<br>
