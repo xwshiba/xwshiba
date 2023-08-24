@@ -8,7 +8,8 @@
 
 ### My Projects - feel free to try them!
 - 📘 [Kindle Scraper for Mandarin System](https://github.com/xwshiba/kindle_scraper_zh)<br>
-  --> A life-saving Python tool to organize Kindle's notorious `My Clippings.txt`.<br>
+  --> A life-saving local Python tool to organize Kindle's notorious `My Clippings.txt`.<br>
+  --> No privacy/safety/spam issues comparing using other online tools
   --> Only supports Mandarin System for now. English version coming soon.
   
 - 💬 [IntegratedChatRoom](https://github.com/xwshiba/IntegratedChatRoom)<br>
