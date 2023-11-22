@@ -13,7 +13,10 @@
   --> Only supports Mandarin System for now. English version coming soon.
   
 - 💬 [IntegratedChatRoom](https://github.com/xwshiba/IntegratedChatRoom)<br>
---> This app is a single page application that involves multiple logged in users. Users can send messages, view logged in users, and receive messages without refreshing the page. This project shows the understanding for web fundamentals.
+--> This app is a single page application that involves multiple logged in users. Users can send messages, view logged in users, and receive messages without refreshing the page.
+
+- 🎵 [Musicverse](https://github.com/xwshiba/Musicverse)<br>
+--> Musicverse is a single-page application that allows users to keep track of all the music users would like to save and grow their passion for music with other users.
     
 - 🤖 [WeTalk.ai](https://github.com/xwshiba/fun-with-ai)<br>
   --> Hawkhacks Hackathon Project.<br>
